@@ -1,0 +1,23 @@
+html {
+    background: #333;
+}
+
+button {
+    width: 20%;
+    height: 25px;
+    background: #05426C;
+    border: solid 2px blue;
+    border-radius: 25px;
+    color: white;
+    font-family: sans-serif;
+    transition: 0.5s;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover {
+    width: 25%;
+    border: solid 2px red;
+    background: crimson;
+    color:black;
+}
